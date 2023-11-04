@@ -1,0 +1,6 @@
+các lệnh trong git:
+
+0, git init : khởi tạo repository ở local project
+1, git remote add origin <remote url>( thêm 1 remote reporitory vào local)
+2, git remote -v : check các remote repository đã thêm vào project ở máy local
+3, 
